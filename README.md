@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am a fullstack Developer that loves making the world better one project at a time !
 
 <!--
 **johnnykim22/johnnykim22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
